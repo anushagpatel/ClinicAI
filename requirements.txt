@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+boto3>=1.35,<2
+langgraph>=0.3,<2
+fastmcp>=2.0,<4
+pydantic>=2.8,<3
+python-dotenv>=1.0,<2
+pytest>=8,<10
